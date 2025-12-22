@@ -1,7 +1,7 @@
 # Project link
 [click here](https://stackblitz.com/edit/dom-project-chaiaurcode-krnenmti?file=6-unlimitedColors%2Fchaiaurcode.js)
 
-## Project 5 Solution Code
+## Project 6 Solution Code
 ```Javascript
 //generate random color
 
