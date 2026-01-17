@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body ko poore screen par center karne ke liye */
+body {
+    display: flex;               /* Flexbox enable karo */
+    flex-direction: column;      /* Content vertically stack ho */
+    justify-content: center;     /* Vertical center */
+    align-items: center;         /* Horizontal center */
+    height: 100vh;               /* Poora viewport height */
+    margin: 0;                   /* Default margin hata do */
+    font-family: Arial, sans-serif;
+    text-align: center;          /* Text center align */
+    /* background-color: #f0f0f0;   Optional background */
+}
+
+h3{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    /* padding-left: 200px; */
+}
+
+button {
+    font-size: 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: green;
+    padding: 10px 20px;
+    margin: 15px 0;
+}
+
+div {
+    font-size: 20px;
+    text-align: center;
+    height: 300px;
+    width: 500px;
+    border: 2px solid;
+    border-radius: 5px;
+}
